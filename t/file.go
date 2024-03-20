@@ -18,7 +18,7 @@ const (
 	PB = 1024 * TB
 )
 
-func FileSize(bytesize int64, sigfig ...int) string {
+func FileFormatBytes(bytesize int64, sigfig ...int) string {
 	size := float64(bytesize)
 	var sigfigs int
 	if len(sigfig) == 0 {
