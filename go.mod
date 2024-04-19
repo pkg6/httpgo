@@ -12,7 +12,7 @@ require (
 	github.com/pkg6/go-defaults v1.0.0
 	github.com/stretchr/testify v1.8.4
 	github.com/ugorji/go/codec v1.2.12
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.21.0
 	golang.org/x/image v0.15.0
 	google.golang.org/protobuf v1.32.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -33,7 +33,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 )
